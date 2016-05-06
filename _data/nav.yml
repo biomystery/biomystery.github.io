@@ -3,3 +3,4 @@ main:
     - { url: '/project', text: 'Projects' }
     - { url: '/publication', text: 'Publication' }
     - { url: '/about', text: 'About' }
+    - { url: '/resource', text: 'Resources' }
