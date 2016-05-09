@@ -70,3 +70,27 @@ kramdown:
 
 
 include: ['_pages']
+
+
+# Site owner
+owner:
+  name: Zhang (Frank) Cheng
+  avatar:
+  email: zhangc518@gmail.com
+  disqus-shortname:
+  twitter: biomystery
+  facebook: #username
+  github: biomystery
+  stackexchange: 
+  linkedin: biomystery
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  google:
+    plus:
+    analytics:
+    verify:
+    ad-client:
+    ad-slot: 
+  bing-verify:
