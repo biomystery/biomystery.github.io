@@ -11,10 +11,10 @@ permalink: /
   </ol>
   <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
-      <img src="/images/s-hiv.gif" alt="First slide" class="img-rounded">
+      <img src="/images/s-hiv.gif" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img src="/images/c-hiv.gif" alt="Second slide" class="img-rounded">
+      <img src="/images/c-hiv.gif" alt="Second slide">
     </div>
   </div>
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
