@@ -22,6 +22,7 @@ An python app to illustrate the consequence of two different HIV
 ### Classical algorithm implementation in Python
 Use python to implement classical algorithms taught in
 [Algorithms I @Standford & Coursera](https://www.coursera.org/learn/algorithm-design-analysis):
+
 * MergeSort - Divide & Conquer Algorithms (wk1) 
 * QuickSort & Search - Master Method (wk2)
 * Graph Search, Topological Sort, Connected Components (wk3&4)
