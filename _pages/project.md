@@ -21,11 +21,11 @@ A simple app demonstrates the influence of point on the linear regresson
 An python app to illustrate the consequence of two different HIV
 infection modes:
 
-![ ]({{ site.url }}/images/c-hiv.gif|width=400px)
+![c-hiv]({{ site.url }}/images/c-hiv.gif|width=400px)
 
 | Cell-to-cell transmission model | diffusing virus model |
 |:-------------------------:|:-------------------------:|
-| ![ ]({{ site.url }}/images/c-hiv.gif|width=400px) | ![ ]({{ site.url }}/images/s-hiv.gif|width=400px)|
+| ![c-hiv]({{ site.url }}/images/c-hiv.gif|width=400px) | ![s-hiv]({{ site.url }}/images/s-hiv.gif|width=400px)|
 
 
 ### Classical algorithm implementation in Python ([github](https://github.com/biomystery/algorithm1_coursera_2013_stanford))
@@ -42,7 +42,7 @@ data-target="#demo"> Algorithm Details</button>
 | Dijkstra's Shortest-path | wk5 |
 | Heaps - data structure | wk 5 |
 | Hash Tables | wk6 |
-{:  #demo .table-condensed .collapse} 
+{:  #demo .collapse .table-striped} 
 
 
 
