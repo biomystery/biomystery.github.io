@@ -5,14 +5,20 @@ permalink: /project/
 ---
 
 
-*  Data point influence in Linear Regress ([demo@shiny.io](https://biomystery.shinyapps.io/LRInfluenceApp/))
-** A simple app demonstrates the influence of point on the linear regresson (LR) model |
-* predict next word app [demo](https://biomystery.shinyapps.io/predNextWord/)[slide][github](https://github.com/biomystery/pred_next_word_app) 
-** A NLP(natural language process) app trained millions records from US news, blog and twitter using a back-off smooth and n-gram algorithm to predict next word you type. 
+###  Data point influence in Linear Regress ([demo@shiny.io](https://biomystery.shinyapps.io/LRInfluenceApp/))
 
-* Cellular HIV expansion      
-** An python app to illustrate the consequence of two different HIV infection modes 
+A simple app demonstrates the influence of point on the linear regresson
+(LR) model
 
-* nfkb models
+### predict next word app [demo](https://biomystery.shinyapps.io/predNextWord/)[slide][github](https://github.com/biomystery/pred_next_word_app) 
+ A NLP(natural language process) app trained millions records from US
+ news, blog and twitter using a back-off smooth and n-gram algorithm to
+ predict next word you type. 
+
+### Cellular HIV expansion
+An python app to illustrate the consequence of two different HIV
+ infection modes
+ 
+### Nfkb models
 
 
