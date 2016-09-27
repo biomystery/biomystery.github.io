@@ -29,7 +29,7 @@ Use python to implement classical algorithms taught in
 | ------------- | ------------- |
 | MergeSort | Divide and Conquer Algorithms (wk1) |
 | QuickSort and Search | Master Method (wk2)   |
-| Graph Search, Topological Sort, \n Connected Components | wk3 and 4 |
+| Graph Search, Topological Sort, Connected Components | wk3 and 4 |
 | Dijkstra's Shortest-path | wk5 |
 | Heaps - data structure | wk 5 |
 | Hash Tables | wk6 |
