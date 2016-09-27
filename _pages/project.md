@@ -3,8 +3,8 @@ layout: inner2
 title: Projects
 permalink: /project/
 ---
-### bash scripts for automatic processsing NGS data [github]() 
-- RNAseq.sh:
+### Bash scripts for automatic processsing NGS data [github]() 
+- RNAseq.sh: 
 - ChipSeq.sh:
 
 ###  Data point influence in Linear Regress ([demo@shiny.io](https://biomystery.shinyapps.io/LRInfluenceApp/))
@@ -13,7 +13,7 @@ A simple app demonstrates the influence of point on the linear regresson
 (LR) model
 
 ### Predict next word app ([demo](https://biomystery.shinyapps.io/predNextWord/), [slide](https://rpubs.com/biomystery/pred_next_word2), [github](https://github.com/biomystery/pred_next_word_app))
- A NLP(natural language process) app trained millions records from US
+ A NLP(natural language process) app trained by millions records from US
  news, blog and twitter using a back-off smooth and n-gram algorithm to
  predict next word you type. 
 
