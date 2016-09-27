@@ -19,7 +19,12 @@ A simple app demonstrates the influence of point on the linear regresson
 
 ### Cellular HIV expansion 
 An python app to illustrate the consequence of two different HIV
- infection modes
+infection modes:
+
+![Cell-to-cell transmission model](images/c-hiv.gif)
+
+![diffusing virus model](images/s-hiv.gif)
+
 
 ### Classical algorithm implementation in Python ([github](https://github.com/biomystery/algorithm1_coursera_2013_stanford))
 Use python to implement classical algorithms taught in
