@@ -17,7 +17,7 @@ A simple app demonstrates the influence of point on the linear regresson
  news, blog and twitter using a back-off smooth and n-gram algorithm to
  predict next word you type. 
 
-### Cellular HIV expansion
+### Cellular HIV expansion {: .collapse}
 An python app to illustrate the consequence of two different HIV
  infection modes
 
