@@ -20,11 +20,11 @@ A simple app demonstrates the influence of point on the linear regresson
 ### Cellular HIV expansion 
 An python app to illustrate the consequence of two different HIV
 infection modes:
-<center>
+
 | Cell-to-cell transmission model | diffusing virus model |
 |:-------------------------:|:-------------------------:|
 | ![c-hiv]({{ site.url }}/images/c-hiv.gif){:width="200px"} | ![s-hiv]({{ site.url }}/images/s-hiv.gif){:width="200px"}|
-</center>
+{: align="center"}
 
 ### Classical algorithm implementation in Python ([github](https://github.com/biomystery/algorithm1_coursera_2013_stanford))
 Use python to implement classical algorithms taught in
@@ -40,7 +40,7 @@ data-target="#demo"> Algorithm Details</button>
 | Dijkstra's Shortest-path | wk5 |
 | Heaps - data structure | wk 5 |
 | Hash Tables | wk6 |
-{:  #demo .collapse .table-striped} 
+{:  #demo .collapse .table-striped .table-condensed} 
 
 
 
