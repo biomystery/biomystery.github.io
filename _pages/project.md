@@ -24,11 +24,12 @@ An python app to illustrate the consequence of two different HIV
 ### Classical algorithm implementation in Python ([github](https://github.com/biomystery/algorithm1_coursera_2013_stanford))
 Use python to implement classical algorithms taught in
 [Algorithms I @Standford & Coursera](https://www.coursera.org/learn/algorithm-design-analysis):
- <button type="button" class="btn btn-info" data-toggle="collapse"
- data-target="#demo">Simple collapsible</button>
- <div id="demo" class="table-condensed collapse">
- 
-| Algorithm  |  Description  |
+{:refdef: }
+<button type="button" class="btn btn-info" data-toggle="collapse"
+data-target="#demo"> Algorithm Details</button>
+
+{:refdef: #demo .table-condensed .collapse}
+| Algorithm | Description |
 | ------------- | ------------- |
 | MergeSort | Divide and Conquer Algorithms (wk1) |
 | QuickSort and Search | Master Method (wk2)   |
@@ -36,8 +37,8 @@ Use python to implement classical algorithms taught in
 | Dijkstra's Shortest-path | wk5 |
 | Heaps - data structure | wk 5 |
 | Hash Tables | wk6 |
+{: refdef}
 
-</div>
 
 
 
