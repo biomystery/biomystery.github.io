@@ -17,14 +17,16 @@ A simple app demonstrates the influence of point on the linear regresson
  news, blog and twitter using a back-off smooth and n-gram algorithm to
  predict next word you type. 
 
-### Cellular HIV expansion {: .collapse}
+### Cellular HIV expansion 
 An python app to illustrate the consequence of two different HIV
  infection modes
 
 ### Classical algorithm implementation in Python ([github](https://github.com/biomystery/algorithm1_coursera_2013_stanford))
 Use python to implement classical algorithms taught in
 [Algorithms I @Standford & Coursera](https://www.coursera.org/learn/algorithm-design-analysis):
-
+ <button type="button" class="btn btn-info" data-toggle="collapse"
+ data-target="#demo">Simple collapsible</button>
+ 
 | Algorithm  |  Description  |
 | ------------- | ------------- |
 | MergeSort | Divide and Conquer Algorithms (wk1) |
@@ -33,7 +35,7 @@ Use python to implement classical algorithms taught in
 | Dijkstra's Shortest-path | wk5 |
 | Heaps - data structure | wk 5 |
 | Hash Tables | wk6 |
-{: .table-condensed}
+{: .table-condensed .collapse}
 
 
 
