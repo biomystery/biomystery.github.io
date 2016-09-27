@@ -24,8 +24,7 @@ An python app to illustrate the consequence of two different HIV
 ### Classical algorithm implementation in Python ([github](https://github.com/biomystery/algorithm1_coursera_2013_stanford))
 Use python to implement classical algorithms taught in
 [Algorithms I @Standford & Coursera](https://www.coursera.org/learn/algorithm-design-analysis):
-
-<button type="button" class="btn btn-info" data-toggle="collapse"
+<button type="button" class="btn btn-info btn-block" data-toggle="collapse"
 data-target="#demo"> Algorithm Details</button>
 
 | Algorithm | Description |
