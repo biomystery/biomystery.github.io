@@ -4,6 +4,9 @@ title: Projects
 permalink: /project/
 ---
 
+### bash scripts for automatic processsing NGS data [github]() 
+- RNAseq.sh:
+- ChipSeq.sh:
 
 ###  Data point influence in Linear Regress ([demo@shiny.io](https://biomystery.shinyapps.io/LRInfluenceApp/))
 
@@ -22,12 +25,18 @@ An python app to illustrate the consequence of two different HIV
 ### Classical algorithm implementation in Python ([github](https://github.com/biomystery/algorithm1_coursera_2013_stanford))
 Use python to implement classical algorithms taught in
 [Algorithms I @Standford & Coursera](https://www.coursera.org/learn/algorithm-design-analysis):
+<center>
 
-* MergeSort - Divide & Conquer Algorithms (wk1) 
-* QuickSort & Search - Master Method (wk2)
-* Graph Search, Topological Sort, Connected Components (wk3&4)
-* Dijkstra's Shortest-path (wk5)
-* Heaps - data structure (wk5)
-* Hash Tables (wk6)
+| Algorithm  |     Description     |
+|----------|:-------------:|
+| MergeSort | Divide & Conquer Algorithms (wk1) | 
+| QuickSort & Search |     Master Method (wk2)   |
+|  Graph Search, Topological Sort, Connected Components | wk3&4 |
+|  Dijkstra's Shortest-path | wk5 |
+|  Heaps - data structure | wk 5|
+|  Hash Tables | wk6|
+
+</center>
+
 
 
