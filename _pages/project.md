@@ -1,4 +1,3 @@
-
 ---
 layout: inner2
 title: Projects
