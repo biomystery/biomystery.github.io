@@ -3,7 +3,6 @@ layout: inner2
 title: Projects
 permalink: /project/
 ---
-
 ### bash scripts for automatic processsing NGS data [github]() 
 - RNAseq.sh:
 - ChipSeq.sh:
