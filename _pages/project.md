@@ -40,7 +40,7 @@ data-target="#demo"> Algorithm Details</button>
 | Dijkstra's Shortest-path | wk5 |
 | Heaps - data structure | wk 5 |
 | Hash Tables | wk6 |
-{:  #demo .collapse .table-striped .table-condensed} 
+{:  #demo .collapse .table-striped .table-condensed .table-inverse} 
 
 
 
