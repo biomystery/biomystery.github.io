@@ -25,7 +25,6 @@ An python app to illustrate the consequence of two different HIV
 Use python to implement classical algorithms taught in
 [Algorithms I @Standford & Coursera](https://www.coursera.org/learn/algorithm-design-analysis):
 
-<center>
 | Algorithm  |  Description  |
 | ------------- | ------------- |
 | MergeSort | Divide and Conquer Algorithms (wk1) |
@@ -34,9 +33,6 @@ Use python to implement classical algorithms taught in
 | Dijkstra's Shortest-path | wk5 |
 | Heaps - data structure | wk 5 |
 | Hash Tables | wk6 |
-
-</center>
-
 
 
 
