@@ -26,7 +26,8 @@ Use python to implement classical algorithms taught in
 [Algorithms I @Standford & Coursera](https://www.coursera.org/learn/algorithm-design-analysis):
  <button type="button" class="btn btn-info" data-toggle="collapse"
  data-target="#demo">Simple collapsible</button>
- <div id="demo">
+ <div id="demo" class="table-condensed collapse">
+ 
 | Algorithm  |  Description  |
 | ------------- | ------------- |
 | MergeSort | Divide and Conquer Algorithms (wk1) |
@@ -35,7 +36,7 @@ Use python to implement classical algorithms taught in
 | Dijkstra's Shortest-path | wk5 |
 | Heaps - data structure | wk 5 |
 | Hash Tables | wk6 |
-{: .table-condensed .collapse}
+
 </div>
 
 
