@@ -1,5 +1,6 @@
 ---
 layout: inner2
+title: Frank Cheng's personal website 
 permalink: /
 ---
 
