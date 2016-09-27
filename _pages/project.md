@@ -12,7 +12,9 @@ permalink: /project/
 A simple app demonstrates the influence of point on the linear regresson
 (LR) model
 
-### predict next word app ([demo](https://biomystery.shinyapps.io/predNextWord/)[slide][github](https://github.com/biomystery/pred_next_word_app) )
+### predict next word app
+ ([demo](https://biomystery.shinyapps.io/predNextWord/),
+ [slide](https://rpubs.com/biomystery/pred_next_word2), [github](https://github.com/biomystery/pred_next_word_app) )
  A NLP(natural language process) app trained millions records from US
  news, blog and twitter using a back-off smooth and n-gram algorithm to
  predict next word you type. 
