@@ -3,6 +3,9 @@ layout: inner2
 title: Projects
 permalink: /project/
 ---
+### (Matlab submission) Visualize matrix by a heatmap [pcolorMat](http://www.mathworks.com/matlabcentral/fileexchange/50835-visualize-matrix-by-a-heatmap)
+- PCOLORMAT allows you to visualize the matrix with color gradient
+
 ### Bash scripts for automatic processsing NGS data [github]() 
 - RNAseq.sh: 
 - ChipSeq.sh:
