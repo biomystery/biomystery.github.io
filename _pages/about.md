@@ -9,7 +9,7 @@ permalink: /about/
 <td>
 <img
 src="https://media.licdn.com/media/AAEAAQAAAAAAAAfGAAAAJDk5NzBkOGZlLTE3YTctNDgzYy04NTljLWMwZTI5ZDNiM2U1OQ.jpg" alt=
-"Frank Cheng"> &nbsp;
+"Frank Cheng" style="width:128px;height:128px;"> &nbsp;
 </td>
 <td> </td>
 <td>
