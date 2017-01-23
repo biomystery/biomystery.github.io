@@ -8,7 +8,7 @@ permalink: /about/
 <tr>
 <td>
 <img
-src="https://media.licdn.com/mpr/mpr/shrink_100_100/p/2/000/291/1a1/2486a32.jpg" alt=
+src="https://media.licdn.com/media/AAEAAQAAAAAAAAfGAAAAJDk5NzBkOGZlLTE3YTctNDgzYy04NTljLWMwZTI5ZDNiM2U1OQ.jpg" alt=
 "Frank Cheng"> &nbsp;
 </td>
 <td> </td>
